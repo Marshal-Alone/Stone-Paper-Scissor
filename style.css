@@ -4,8 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 90vw; /* Use viewport width */
-    height: 90vh; /* Use viewport height */
+    /*width: 90vw; /* Use viewport width */
+   /* height: 90vh; /* Use viewport height */
 }
 
 .play-ground {
@@ -14,9 +14,9 @@
     align-items: center;
     justify-content: center;
     border-radius: 10%;
-    width: 90%; /* Full width on mobile */
-    max-width: 600px; /* Limit max width for larger screens */
-    height: auto; /* Allow height to adjust */
+   /* width: 90%;  Full width on mobile */
+    /*max-width: 600px;  Limit max width for larger screens */
+    /*height: auto;  Allow height to adjust */
 }
 
 #title {
