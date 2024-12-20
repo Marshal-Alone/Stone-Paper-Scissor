@@ -4,8 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /*width: 90vw; /* Use viewport width */
-   /* height: 90vh; /* Use viewport height */
+    width: 99vw;  
+    height: 90vh; 
 }
 
 .play-ground {
