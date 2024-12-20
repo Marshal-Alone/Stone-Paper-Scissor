@@ -84,6 +84,7 @@ let decison = () => {
         comp_cnt++;
         txt.innerText='Marshal won !!'
         txt.style.backgroundColor = 'red';
+        txt.style.color = 'white';
         document.querySelector("#comp-count").innerText = comp_cnt;
     } else if (decision === 'draw') {
         img1.style.borderColor = "transparent";
